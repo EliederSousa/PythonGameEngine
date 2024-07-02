@@ -1,0 +1,33 @@
+todos:
+    tornar o Constants.py o padrão
+    comentar o código todo
+    parar de usar modo "json" pra passar valores
+
+Engine.py:
+    Criar sistema de detecção de colisões
+    Criar novos tipos de sistemas (água, ar)
+    Implementar modos diferentes de fricção
+
+Events.py:
+    Gerar eventos para diferentes botões do mouse
+    Suporte para 
+    
+GameObject.py:
+    Usar o Constants.py!!!
+    Criar novos métodos de steering behavior
+    Testar (e usar) as linhas de debug
+
+Player.py:
+    Consolidar métodos de movimento
+
+Screen.py:
+    Atualizar os métodos de desenho para permitir
+    rotacionar as formas
+    Criar classe para cores
+
+
+
+
+
+
+ 
